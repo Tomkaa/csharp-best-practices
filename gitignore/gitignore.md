@@ -1,5 +1,7 @@
 # .gitignore
 
+`.gitignore` file needs to be adjusted to your IDE, because different IDEs create different kind of files we don't want to track.
+
 * In case of Visual Studio:
   * Use this .gitignore from [github/gitignore](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore) repo.
 * In case of Rider:
